@@ -7,7 +7,7 @@ Built with plain HTML and CSS. There is no framework and no build step.
 
 ## Live site
 
- Netlify link : https://your-site-name.netlify.app
+ Netlify link : https://mulukenb-portfolio.netlify.app/
  
  ## Folder structure
  
