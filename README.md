@@ -12,7 +12,11 @@ Built with plain HTML and CSS. There is no framework and no build step.
  ## Folder structure
  
 portfolio-repo/
-  index.html          the whole site (HTML and CSS)
+
+  index.html    the whole site (HTML and CSS)
+  
   assets/
+  
     profile.jpg       profile photo
-  README.md           this file
+    
+  README.md            file
