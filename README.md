@@ -7,7 +7,7 @@ Built with plain HTML and CSS. There is no framework and no build step.
 
 ## Live site
 
- Netlify link : https://portfolio-website-ip20w9y3f-muluken2.vercel.app/
+ link :https://portfolio-website-muluken2.vercel.app/
  
  ## Folder structure
  
