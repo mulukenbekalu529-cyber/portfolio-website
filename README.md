@@ -7,7 +7,7 @@ Built with plain HTML and CSS. There is no framework and no build step.
 
 ## Live site
 
- link :https://portfolio-website-muluken2.vercel.app/
+ ## vercel link :https://portfolio-website-muluken2.vercel.app/
  
  ## Folder structure
  
